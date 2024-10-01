@@ -1,12 +1,12 @@
 {
-  "name": "PAEDULZ",
+  "name": "PANGLIMA-JATIM",
   "version": "1.0.0",
-  "description": "PAEDULZ",
+  "description": "PANGLIMA-JATIM",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "PAEDULZ",
+  "author": "PANGLIMA-JATIM",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
